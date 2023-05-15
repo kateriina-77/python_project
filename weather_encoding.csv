@@ -1,0 +1,51 @@
+Код,Истинное значение
+0,Clear
+1,Cloudy
+2,Drizzle
+3,"Drizzle,Fog"
+4,"Drizzle,Ice Pellets,Fog"
+5,"Drizzle,Snow"
+6,"Drizzle,Snow,Fog"
+7,Fog
+8,Freezing Drizzle
+9,"Freezing Drizzle,Fog"
+10,"Freezing Drizzle,Haze"
+11,"Freezing Drizzle,Snow"
+12,Freezing Fog
+13,Freezing Rain
+14,"Freezing Rain,Fog"
+15,"Freezing Rain,Haze"
+16,"Freezing Rain,Ice Pellets,Fog"
+17,"Freezing Rain,Snow Grains"
+18,Haze
+19,Mainly Clear
+20,"Moderate Rain,Fog"
+21,Moderate Snow
+22,"Moderate Snow,Blowing Snow"
+23,Mostly Cloudy
+24,Rain
+25,Rain Showers
+26,"Rain Showers,Fog"
+27,"Rain Showers,Snow Showers"
+28,"Rain,Fog"
+29,"Rain,Haze"
+30,"Rain,Ice Pellets"
+31,"Rain,Snow"
+32,"Rain,Snow Grains"
+33,"Rain,Snow,Fog"
+34,"Rain,Snow,Ice Pellets"
+35,Snow
+36,Snow Pellets
+37,Snow Showers
+38,"Snow Showers,Fog"
+39,"Snow,Blowing Snow"
+40,"Snow,Fog"
+41,"Snow,Haze"
+42,"Snow,Ice Pellets"
+43,Thunderstorms
+44,"Thunderstorms,Heavy Rain Showers"
+45,"Thunderstorms,Moderate Rain Showers,Fog"
+46,"Thunderstorms,Rain"
+47,"Thunderstorms,Rain Showers"
+48,"Thunderstorms,Rain Showers,Fog"
+49,"Thunderstorms,Rain,Fog"
